@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+  text-decoration: underline;
+  margin: 0;
+}
+
+h3 {
+  color: orangered;
+}
+
+p {
+  font-size: 24px;
+}
+
+.emphasized {
+  background-color: yellowgreen;
+}
+
+p.emphasized {
+  font-style: italic;
+}
+
+#work-heading {
+  text-transform: uppercase;
+}
+
+ol li {
+  color: purple;
+}
+
+img {
+  width: 400px;
+}
+
+.lake-section {
+  background-image: url('images/lake.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.spaced-section {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-color: yellow;
+}
